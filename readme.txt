@@ -20,3 +20,4 @@ git vs SVN
 Når man gjør git CLONE, så legges det inn en link til location
 så gjør man gir PULL
 PULL ofte, små COMMITs
+
